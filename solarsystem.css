@@ -62,7 +62,7 @@ transition: rotate(-10 deg);
     left: 0;
     right: 0;
     bottom: 0;
-    background: transparent url(solarsytem/shadow\ -\ Shortcut.lnk) 0% 0% no-repeat;
+    background: transparent url(/-css-animations/solarsytem/shadow\ -\ Shortcut.lnk) 0% 0% no-repeat;
     background-size: cover;
     border-radius: 100%;
 } 

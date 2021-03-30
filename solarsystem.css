@@ -42,7 +42,7 @@ transition: rotate(-10 deg);
 {
    width :250 px;
    height: 250px;
-   background: url(solarsytem/sun\ -\ Shortcut.lnk) no-repeat;
+   background: url(./solarsytem/sun\ -\ Shortcut.lnk) no-repeat;
    border-radius: 250px;
    margin: 0 auto;
    background-size: cover;
@@ -99,7 +99,7 @@ transition: rotate(-10 deg);
 .venus .planet{
     width: 38px;
     height: 38px;
-    background-image: url(solarsytem/venus\ -\ Shortcut.lnk);
+    background-image: url(/solarsytem/venus\ -\ Shortcut.lnk);
     animation: anti-spin 15s infinite linear;
 } 
 .venus .shadow
